@@ -1,0 +1,1 @@
+Developed a Matrix Admin Panel using React for a modern interface with a responsive layout. Implemented user management features and integrated data visualization tools for real-time insights. Utilized Node and Express for backend routing, ensuring efficient API communication and optimized performance for fast loading times.
